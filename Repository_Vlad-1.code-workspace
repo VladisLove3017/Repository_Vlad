@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Repository_Vlad-1",
+			"path": "."
+		},
+		{
+			"name": "bootstrap",
+			"path": "../../../OSPanel/myblog/bootstrap"
+		}
+	],
+	"settings": {}
+}
